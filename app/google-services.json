@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910192945562",
+    "project_id": "proyecto2-f2781",
+    "storage_bucket": "proyecto2-f2781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910192945562:android:6ceb72b6b659a0ab413223",
+        "android_client_info": {
+          "package_name": "com.example.app_universidad3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVBsT3zhUFL6Xt5_o-Dr5SAI5UQdyt0eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
